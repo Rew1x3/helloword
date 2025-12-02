@@ -25,12 +25,12 @@ function App() {
 
         <div className="links">
           {/* TODO: Replace '#' with your GitHub profile URL (e.g., https://github.com/yourusername) */}
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Rew1x3" target="_blank" rel="noopener noreferrer">
             <img src="/icons/github.svg" alt="GitHub" className="icon" /> GitHub
           </a>
 
           {/* TODO: Replace '#' with your Telegram profile URL (e.g., https://t.me/yourusername) */}
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/pr1me_dev" target="_blank" rel="noopener noreferrer">
             <img src="/icons/telegram.svg" alt="Telegram" className="icon" /> Telegram
           </a>
         </div>
