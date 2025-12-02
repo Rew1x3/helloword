@@ -20,9 +20,13 @@
 Hello! I'm a programmer who understands both Russian and English languages.  
 I develop modern web applications and software projects. This repository showcases my portfolio website with a beautiful dark theme and futuristic design.
 
+This repository was created to introduce me. Feel free to use my freely accessible files if you'd like. To order a website, message me on Telegram @pr1me_dev.
+
 **Русский:**
 Привет! Я программист, который понимает как русский, так и английский язык.  
 Разрабатываю современные веб‑приложения и программные проекты. Этот репозиторий демонстрирует мой портфолио-сайт с красивой тёмной темой и футуристическим дизайном.
+
+Этот репозиторий создан, чтобы представить меня. Вы можете использовать мой файл в свободном доступе, если хотите. Чтобы заказать сайт, напишите мне в Telegram @pr1me_dev.
 
 ---
 
